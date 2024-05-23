@@ -1,0 +1,52 @@
+.qw {
+  height: 1000px;
+  font-size: 50px;
+  background-image: url("jhr.jpg");
+  background-size: cover;
+}
+
+* {
+  margin: 45px;
+  box-shadow: 50px 50px 50px red;
+}
+.la {
+  font-size: 50px;
+  box-shadow: 50px 50px 50px;
+}
+p {
+  border: 20px solid;
+  border-radius: 30px;
+  padding: 30px;
+  margin: 10px;
+  box-shadow: 50px 50px 100px black;
+}
+.r {
+  font-size: 35px;
+}
+.m {
+  font-size: 50px;
+  box-shadow: 50px 50px 100px black;
+}
+.ff {
+  font-size: 35px;
+}
+.o {
+  box-shadow: 35px 35px 35px rgb(255, 0, 0);
+}
+.nb {
+  font-size: 50px;
+}
+.pa {
+  box-shadow: 50px 50px 50px black;
+}
+.mn {
+  font-size: 50px;
+  border: 10px solid yellow;
+  box-shadow: 50px 50px 50px black;
+}
+.rt {
+  height: 800px;
+  font-size: 50px;
+  background-image: url("KKK.jpg");
+  background-size: cover;
+}
